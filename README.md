@@ -23,7 +23,7 @@
 - 036 String Indexes [.py](03-basics-1/036-String-Indexes.py)
 - 037 Immutability [.py](03-basics-1/037-Immutability.py)
 - 038 Built-In Functions + Methods [.py](03-basics-1/038-Built-In-Functions-Methods.py)
-- `039 - Booleans.py`
+- 039 Booleans [.py](03-basics-1/039-Booleans.py)
 - `040 - Exercise - Type Conversion.py`
 - `041 - DEVELOPER FUNDAMENTALS - II.py`
 - `042 - Exercise - Password Checker.py`
