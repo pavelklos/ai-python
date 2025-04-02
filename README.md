@@ -3,15 +3,15 @@
 ## 01. Introduction (001-004)
 
 ## 02. Python Introduction (005-017) 1 file
-- 010 Our First Python Program [010-Our-First-Python-Program.py](02-introduction/010-Our-First-Python-Program.py)
+- 010 Our First Python Program [.py](02-introduction/010-Our-First-Python-Program.py)
 
 ## 03. Python Basics (018-061) 38 files
-- 019 Python Data Types [019-Python-Data-Types.py](03-basics-1/019-Python-Data-Types.py)
-- 021 Numbers [021-Numbers.py](03-basics-1/021-Numbers.py)
-- 022 Math Functions [022-Math-Functions.py](03-basics-1/022-Math-Functions.py)
-- 024 Operator Precedence [024-Operator-Precedence.py](03-basics-1/024-Operator-Precedence.py)
-- 026 Exercise: Operator Precedence [026-Exercise-Operator-Precedence.py](03-basics-1/026-Exercise-Operator-Precedence.py)
-- `027 - bin() and complex.py`
+- 019 Python Data Types [.py](03-basics-1/019-Python-Data-Types.py)
+- 021 Numbers [.py](03-basics-1/021-Numbers.py)
+- 022 Math Functions [.py](03-basics-1/022-Math-Functions.py)
+- 024 Operator Precedence [.py](03-basics-1/024-Operator-Precedence.py)
+- 026 Exercise: Operator Precedence [.py](03-basics-1/026-Exercise-Operator-Precedence.py)
+- 027 bin() and complex [.py](03-basics-1/027-bin()-and-complex.py)
 - `028 - Variables.py`
 - `029 - Expressions vs Statements.py`
 - `030 - Augmented Assignment Operator.py`
