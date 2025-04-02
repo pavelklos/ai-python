@@ -16,7 +16,7 @@
 - 029 Expressions vs Statements [.py](03-basics-1/029-Expressions-vs-Statements.py)
 - 030 Augmented Assignment Operator [.py](03-basics-1/030-Augmented-Assignment-Operator.py)
 - 031 Strings [.py](03-basics-1/031-Strings.py)
-- `032 - String Concatenation.py`
+- 032 String Concatenation [.py](03-basics-1/032-String-Concatenation.py)
 - `033 - Type Conversion.py`
 - `034 - Escape Sequences.py`
 - `035 - Formatted Strings.py`
