@@ -14,7 +14,7 @@
 - 027 bin() and complex [.py](03-basics-1/027-bin()-and-complex.py)
 - 028 Variables [.py](03-basics-1/028-Variables.py)
 - 029 Expressions vs Statements [.py](03-basics-1/029-Expressions-vs-Statements.py)
-- `030 - Augmented Assignment Operator.py`
+- 030 Augmented Assignment Operator [.py](03-basics-1/030-Augmented-Assignment-Operator.py)
 - `031 - Strings.py`
 - `032 - String Concatenation.py`
 - `033 - Type Conversion.py`
