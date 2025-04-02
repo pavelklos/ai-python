@@ -9,7 +9,7 @@
 - 019 Python Data Types [019-Python-Data-Types.py](03-basics-1/019-Python-Data-Types.py)
 - 021 Numbers [021-Numbers.py](03-basics-1/021-Numbers.py)
 - 022 Math Functions [022-Math-Functions.py](03-basics-1/022-Math-Functions.py)
-- `024 - Operator Precedence.py`
+- 024 Operator Precedence [024-Operator-Precedence.py](03-basics-1/024-Operator-Precedence.py)
 - `026 - Exercise - Operator Precedence.py`
 - `027 - bin() and complex.py`
 - `028 - Variables.py`
