@@ -7,7 +7,7 @@
 
 ## 03. Python Basics (018-061) 38 files
 - 019 Python Data Types [019-Python-Data-Types.py](03-basics-1/019-Python-Data-Types.py)
-- `021 - Numbers.py`
+- 021 Numbers [021-Numbers.py](03-basics-1/021-Numbers.py)
 - `022 - Math Functions.py`
 - `024 - Operator Precedence.py`
 - `026 - Exercise - Operator Precedence.py`
