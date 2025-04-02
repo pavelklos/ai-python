@@ -19,7 +19,7 @@
 - 032 String Concatenation [.py](03-basics-1/032-String-Concatenation.py)
 - 033 Type Conversion [.py](03-basics-1/033-Type-Conversion.py)
 - 034 Escape Sequences [.py](03-basics-1/034-Escape-Sequences.py)
-- `035 - Formatted Strings.py`
+- 035 Formatted Strings [.py](03-basics-1/035-Formatted-Strings.py)
 - `036 - String Indexes.py`
 - `037 - Immutability.py`
 - `038 - Built-In Functions + Methods.py`
