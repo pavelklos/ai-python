@@ -21,7 +21,7 @@
 - 034 Escape Sequences [.py](03-basics-1/034-Escape-Sequences.py)
 - 035 Formatted Strings [.py](03-basics-1/035-Formatted-Strings.py)
 - 036 String Indexes [.py](03-basics-1/036-String-Indexes.py)
-- `037 - Immutability.py`
+- 037 Immutability [.py](03-basics-1/037-Immutability.py)
 - `038 - Built-In Functions + Methods.py`
 - `039 - Booleans.py`
 - `040 - Exercise - Type Conversion.py`
