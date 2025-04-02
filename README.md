@@ -6,7 +6,7 @@
 - 010 Our First Python Program [010-Our-First-Python-Program.py](02-introduction/010-Our-First-Python-Program.py)
 
 ## 03. Python Basics (018-061) 38 files
-- `019 - Python Data Types.py`
+- 019 Python Data Types [019-Python-Data-Types.py](03-basics-1/019-Python-Data-Types.py)
 - `021 - Numbers.py`
 - `022 - Math Functions.py`
 - `024 - Operator Precedence.py`
