@@ -43,7 +43,7 @@
 - 058 Tuples [.py](03-basics-1/058-Tuples.py)
 - 059 Tuples 2 [.py](03-basics-1/059-Tuples-2.py)
 - 060 Sets [.py](03-basics-1/060-Sets.py)
-- `061 - Sets 2.py`
+- 061 Sets 2 [.py](03-basics-1/061-Sets-2.py)
 
 ## 04. Python Basics II (062-099) 33 files
 - `063 - Conditional Logic.py`
