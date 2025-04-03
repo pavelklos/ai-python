@@ -39,7 +39,7 @@
 - 052 Dictionaries [.py](03-basics-1/052-Dictionaries.py)
 - 055 Dictionary Keys [.py](03-basics-1/055-Dictionary-Keys.py)
 - 056 Dictionary Methods [.py](03-basics-1/056-Dictionary-Methods.py)
-- `057 - Dictionary Methods 2.py`
+- 057 Dictionary Methods 2 [.py](03-basics-1/057-Dictionary-Methods-2.py)
 - `058 - Tuples.py`
 - `059 - Tuples 2.py`
 - `060 - Sets.py`
