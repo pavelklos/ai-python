@@ -33,7 +33,7 @@
 - 046 List Methods [.py](03-basics-1/046-List-Methods.py)
 - 047 List Methods 2 [.py](03-basics-1/047-List-Methods-2.py)
 - 048 List Methods 3 [.py](03-basics-1/048-List-Methods-3.py)
-- `049 - Common List Patterns.py`
+- 049 Common List Patterns [.py](03-basics-1/049-Common-List-Patterns.py)
 - `050 - List Unpacking.py`
 - `051 - None.py`
 - `052 - Dictionaries.py`
