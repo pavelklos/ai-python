@@ -25,7 +25,7 @@
 - 038 Built-In Functions + Methods [.py](03-basics-1/038-Built-In-Functions-Methods.py)
 - 039 Booleans [.py](03-basics-1/039-Booleans.py)
 - 040 Exercise: Type Conversion [.py](03-basics-1/040-Exercise-Type-Conversion.py)
-- `041 - DEVELOPER FUNDAMENTALS - II.py`
+- 041 Developer Fundamentals: II [.py](03-basics-1/041-Developer-Fundamentals-II.py)
 - `042 - Exercise - Password Checker.py`
 - `043 - Lists.py`
 - `044 - List Slicing.py`
