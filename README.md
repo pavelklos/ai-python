@@ -31,7 +31,7 @@
 - 044 List Slicing [.py](03-basics-1/044-List-Slicing.py)
 - 045 Matrix [.py](03-basics-1/045-Matrix.py)
 - 046 List Methods [.py](03-basics-1/046-List-Methods.py)
-- `047 - List Methods 2.py`
+- 047 List Methods 2 [.py](03-basics-1/047-List-Methods-2.py)
 - `048 - List Methods 3.py`
 - `049 - Common List Patterns.py`
 - `050 - List Unpacking.py`
