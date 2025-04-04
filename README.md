@@ -46,7 +46,7 @@
 - 061 Sets 2 [.py](03-basics-1/061-Sets-2.py)
 
 ## 04. Python Basics II (062-099) 33 files
-- `063 - Conditional Logic.py`
+- 063 Conditional Logic [.py](04-basics-2/063-Conditional-Logic.py)
 - `064 - Indentation In Python.py`
 - `065 - Truthy vs Falsy.py`
 - `066 - Ternary Operator.py`
@@ -66,6 +66,7 @@
 - `081 - Exercise - Find Duplicates.py`
 - `082 - Functions.py`
 - `083 - Parameters and Arguments.py`
+---
 - `084 - Default Parameters and Keyword Arguments.py`
 - `085 - return.py`
 - `086 - Exercise - Tesla.py`
