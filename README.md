@@ -69,7 +69,7 @@
 - 079 Our First GUI [.py](04-basics-2/079-Our-First-GUI.py)
 - 081 Exercise: Find Duplicates [.py](04-basics-2/081-Exercise-Find-Duplicates.py)
 - 082 Functions [.py](04-basics-2/082-Functions.py)
-- `083 - Parameters and Arguments.py`
+- 083 Parameters and Arguments [.py](04-basics-2/083-Parameters-and-Arguments.py)
 ---
 - `084 - Default Parameters and Keyword Arguments.py`
 - `085 - return.py`
