@@ -60,7 +60,7 @@
 - 074 range() [.py](04-basics-2/074-range().py)
 - 075 enumerate() [.py](04-basics-2/075-enumerate().py)
 - 076 While Loops [.py](04-basics-2/076-While-Loops.py)
-- `077 - While Loops 2.py`
+- 077 While Loops 2 [.py](04-basics-2/077-While-Loops-2.py)
 - `078 - break, continue, pass.py`
 - `079 - Our First GUI.py`
 - `081 - Exercise - Find Duplicates.py`
