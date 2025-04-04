@@ -55,8 +55,7 @@
 - 069 Exercise: Logical Operators [.py](04-basics-2/069-Exercise-Logical-Operators.py)
 - 070 is vs == [.py](04-basics-2/070-is-vs-==.py)⚠️(*immutable & mutable objects*)
 - 071 For Loops [.py](04-basics-2/071-For-Loops.py)
-- `072 - Iterables.py`
----
+- 072 Iterables [.py](04-basics-2/072-Iterables.py)
 - `073 - Exercise - Tricky Counter.py`
 - `074 - range().py`
 - `075 - enumerate().py`
