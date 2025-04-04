@@ -52,7 +52,7 @@
 - 066 Ternary Operator [.py](04-basics-2/066-Ternary-Operator.py)
 - 067 Short Circuiting [.py](04-basics-2/067-Short-Circuiting.py)
 - 068 Logical Operators [.py](04-basics-2/068-Logical-Operators.py)
-- `069 - Exercise - Logical Operators.py`
+- 069 Exercise: Logical Operators [.py](04-basics-2/069-Exercise-Logical-Operators.py)
 - `070 - is vs ==.py`
 - `071 - For Loops.py`
 - `072 - Iterables.py`
