@@ -47,7 +47,7 @@
 
 ## 04. Python Basics II (062-099) 33 files
 - 063 Conditional Logic [.py](04-basics-2/063-Conditional-Logic.py)
-- `064 - Indentation In Python.py`
+- 064 Indentation In Python [.py](04-basics-2/064-Indentation-In-Python.py)
 - `065 - Truthy vs Falsy.py`
 - `066 - Ternary Operator.py`
 - `067 - Short Circuiting.py`
@@ -56,6 +56,7 @@
 - `070 - is vs ==.py`
 - `071 - For Loops.py`
 - `072 - Iterables.py`
+---
 - `073 - Exercise - Tricky Counter.py`
 - `074 - range().py`
 - `075 - enumerate().py`
