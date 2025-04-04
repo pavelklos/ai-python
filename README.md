@@ -81,12 +81,33 @@
 - `091 - Exercise - Functions.py`
 - `092 - Walrus Operator.py`
 - `093 - Scope.py`
+---
 - `094 - Scope Rules.py`
 - `095 - global Keyword.py`
 - `096 - nonlocal Keyword.py`
 
-## 05. Developer Environment
-## 06. Advanced Python: Object Oriented Programming
+## 05. Developer Environment (100-116)
+## 06. Advanced Python: Object Oriented Programming (117-139) 18 files
+- `118 - What Is OOP.py`
+- `120 - Creating Our Own Objects.py`
+- `121 - Attributes and Methods.py`
+- `122 - __init__.py`
+- `123 - Exercise - Cats Everywhere.py`
+- `124 - @classmethod and @staticmethod.py`
+- `125 - Reviewing What We Know So Far.py`
+---
+- `127 - Encapsulation.py`
+- `129 - Private vs Public Variables.py`
+- `130 - Inheritance.py`
+- `132 - Polymorphism.py`
+- `133 - Exercise - Pets Everywhere.py`
+- `134 - super().py`
+- `135 - Object Introspection.py`
+- `136 - Dunder Methods.py`
+- `137 - Exercise - Extending List.py`
+- `138 - Multiple Inheritance.py`
+- `139 - MRO - Method Resolution Order.py`
+
 ## 07. Advanced Python: Functional Programming
 ## 08. Advanced Python: Decorators
 ## 09. Advanced Python: Error Handling
