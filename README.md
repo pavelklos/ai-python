@@ -53,7 +53,7 @@
 - 067 Short Circuiting [.py](04-basics-2/067-Short-Circuiting.py)
 - 068 Logical Operators [.py](04-basics-2/068-Logical-Operators.py)
 - 069 Exercise: Logical Operators [.py](04-basics-2/069-Exercise-Logical-Operators.py)
-- `070 - is vs ==.py`
+- 070 is vs == [.py](04-basics-2/070-is-vs-==.py)⚠️(*immutable & mutable objects*)
 - `071 - For Loops.py`
 - `072 - Iterables.py`
 ---
