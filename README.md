@@ -57,7 +57,7 @@
 - 071 For Loops [.py](04-basics-2/071-For-Loops.py)
 - 072 Iterables [.py](04-basics-2/072-Iterables.py)
 - 073 Exercise: Tricky Counter [.py](04-basics-2/073-Exercise-Tricky-Counter.py)
-- `074 - range().py`
+- 074 range() [.py](04-basics-2/074-range().py)
 - `075 - enumerate().py`
 - `076 - While Loops.py`
 - `077 - While Loops 2.py`
