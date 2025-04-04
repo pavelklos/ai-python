@@ -1,4 +1,8 @@
-# ai-python
+# Python (Course exercises)
+
+- [PEP 8 (Style Guide for Python Code)](https://peps.python.org/pep-0008/) peps.python.org
+- [Built-in Functions](https://docs.python.org/3/library/functions.html) docs.python.org
+- [Python Standard Library](https://docs.python.org/3/library/index.html) docs.python.org
 
 ## 01. Introduction (001-004)
 
@@ -64,7 +68,7 @@
 - 078 break, continue, pass [.py](04-basics-2/078-break-continue-pass.py)
 - 079 Our First GUI [.py](04-basics-2/079-Our-First-GUI.py)
 - 081 Exercise: Find Duplicates [.py](04-basics-2/081-Exercise-Find-Duplicates.py)
-- `082 - Functions.py`
+- 082 Functions [.py](04-basics-2/082-Functions.py)
 - `083 - Parameters and Arguments.py`
 ---
 - `084 - Default Parameters and Keyword Arguments.py`
