@@ -48,7 +48,7 @@
 ## 04. Python Basics II (062-099) 33 files
 - 063 Conditional Logic [.py](04-basics-2/063-Conditional-Logic.py)
 - 064 Indentation In Python [.py](04-basics-2/064-Indentation-In-Python.py)
-- `065 - Truthy vs Falsy.py`
+- 065 Truthy vs Falsey [.py](04-basics-2/065-Truthy-vs-Falsy.py)
 - `066 - Ternary Operator.py`
 - `067 - Short Circuiting.py`
 - `068 - Logical Operators.py`
