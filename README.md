@@ -62,7 +62,7 @@
 - 076 While Loops [.py](04-basics-2/076-While-Loops.py)
 - 077 While Loops 2 [.py](04-basics-2/077-While-Loops-2.py)
 - 078 break, continue, pass [.py](04-basics-2/078-break-continue-pass.py)
-- `079 - Our First GUI.py`
+- 079 Our First GUI [.py](04-basics-2/079-Our-First-GUI.py)
 - `081 - Exercise - Find Duplicates.py`
 - `082 - Functions.py`
 - `083 - Parameters and Arguments.py`
