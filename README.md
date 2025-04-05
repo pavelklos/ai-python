@@ -90,7 +90,7 @@
 ## 06. Advanced Python: Object Oriented Programming (117-139) 18 files
 - 118 What Is OOP? [.py](06-adv-oop/118-What-Is-OOP.py)
 - 120 Creating Our Own Objects [.py](06-adv-oop/120-Creating-Our-Own-Objects.py)
-- `121 - Attributes and Methods.py`
+- 121 Attributes and Methods [.py](06-adv-oop/121-Attributes-and-Methods.py)
 - `122 - __init__.py`
 - `123 - Exercise - Cats Everywhere.py`
 - `124 - @classmethod and @staticmethod.py`
