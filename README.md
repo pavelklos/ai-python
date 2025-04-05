@@ -94,7 +94,7 @@
 - 122 `__init__` [.py](06-adv-oop/122-__init__.py)
 - 123 Exercise: Cats Everywhere [.py](06-adv-oop/123-Exercise-Cats-Everywhere.py)
 - 124 @classmethod and @staticmethod [.py](06-adv-oop/124-@classmethod-and-@staticmethod.py)
-- `125 - Reviewing What We Know So Far.py`
+- 125 Reviewing What We Know So Far [.py](06-adv-oop/125-Reviewing-What-We-Know-So-Far.py)
 ---
 - `127 - Encapsulation.py`
 - `129 - Private vs Public Variables.py`
