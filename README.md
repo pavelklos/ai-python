@@ -75,7 +75,7 @@
 - 085 return [.py](04-basics-2/085-return.py)
 - 086 Exercise: Tesla [.py](04-basics-2/086-Exercise-Tesla.py)
 - 087 Methods vs Functions [.py](04-basics-2/087-Methods-vs-Functions.py)
-- `088 - Docstrings.py`
+- 088 Docstrings [.py](04-basics-2/088-Docstrings.py)
 - `089 - Clean Code.py`
 - `090 - args and kwargs.py`
 - `091 - Exercise - Functions.py`
