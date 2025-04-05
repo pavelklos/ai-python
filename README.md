@@ -86,8 +86,9 @@
 - 096 nonlocal Keyword [.py](04-basics-2/096-nonlocal-Keyword.py)
 
 ## 05. Developer Environment (100-116)
+
 ## 06. Advanced Python: Object Oriented Programming (117-139) 18 files
-- `118 - What Is OOP.py`
+- 118 What Is OOP? [.py](06-adv-oop/118-What-Is-OOP.py)
 - `120 - Creating Our Own Objects.py`
 - `121 - Attributes and Methods.py`
 - `122 - __init__.py`
