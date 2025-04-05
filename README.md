@@ -78,7 +78,7 @@
 - 088 Docstrings [.py](04-basics-2/088-Docstrings.py)
 - 089 Clean Code [.py](04-basics-2/089-Clean-Code.py)
 - 090 *args and **kwargs [.py](04-basics-2/090-args-and-kwargs.py)
-- `091 - Exercise - Functions.py`
+- 091 Exercise: Functions [.py](04-basics-2/091-Exercise-Functions.py)
 - `092 - Walrus Operator.py`
 - `093 - Scope.py`
 ---
