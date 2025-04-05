@@ -71,7 +71,7 @@
 - 082 Functions [.py](04-basics-2/082-Functions.py)
 - 083 Parameters and Arguments [.py](04-basics-2/083-Parameters-and-Arguments.py)
 ---
-- `084 - Default Parameters and Keyword Arguments.py`
+- 084 Default Parameters and Keyword Arguments [.py](04-basics-2/084-Default-Parameters-and-Keyword-Arguments.py)
 - `085 - return.py`
 - `086 - Exercise - Tesla.py`
 - `087 - Methods vs Functions.py`
