@@ -81,7 +81,7 @@
 - 091 Exercise: Functions [.py](04-basics-2/091-Exercise-Functions.py)
 - 092 Walrus Operator [.py](04-basics-2/092-Walrus-Operator.py)
 - 093 Scope [.py](04-basics-2/093-Scope.py)
-- `094 - Scope Rules.py`
+- 094 Scope Rules [.py](04-basics-2/094-Scope-Rules.py)
 - `095 - global Keyword.py`
 - `096 - nonlocal Keyword.py`
 
