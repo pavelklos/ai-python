@@ -79,7 +79,7 @@
 - 089 Clean Code [.py](04-basics-2/089-Clean-Code.py)
 - 090 *args and **kwargs [.py](04-basics-2/090-args-and-kwargs.py)
 - 091 Exercise: Functions [.py](04-basics-2/091-Exercise-Functions.py)
-- `092 - Walrus Operator.py`
+- 092 Walrus Operator [.py](04-basics-2/092-Walrus-Operator.py)
 - `093 - Scope.py`
 ---
 - `094 - Scope Rules.py`
