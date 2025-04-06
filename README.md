@@ -115,7 +115,7 @@
 - 146 reduce() [.py](07-adv-func-prog/146-reduce().py)
 - 147 Exercises: map, filter, zip, reduce [.py](07-adv-func-prog/147-Exercises-map-filter-zip-reduce.py)
 - 148 Lambda Expressions [.py](07-adv-func-prog/148-Lambda-Expressions.py)
-- `149 - Exercise - Lambda Expressions.py`
+- 149 Exercise: Lambda Expressions [.py](07-adv-func-prog/149-Exercise-Lambda-Expressions.py)
 - `150 - List Comprehensions.py`
 ---
 - `151 - Set and Dictionary Comprehension.py`
