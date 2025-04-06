@@ -96,7 +96,7 @@
 - 124 @classmethod and @staticmethod [.py](06-adv-oop/124-@classmethod-and-@staticmethod.py)
 - 125 Reviewing What We Know So Far [.py](06-adv-oop/125-Reviewing-What-We-Know-So-Far.py)
 - 127 Encapsulation [.py](06-adv-oop/127-Encapsulation.py)
-- `129 - Private vs Public Variables.py`
+- 129 Private vs Public Variables [.py](06-adv-oop/129-Private-vs-Public-Variables.py)
 - `130 - Inheritance.py`
 - `132 - Polymorphism.py`
 - `133 - Exercise - Pets Everywhere.py`
