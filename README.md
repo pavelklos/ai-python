@@ -105,8 +105,7 @@
 - 136 Dunder Methods [.py](06-adv-oop/136-Dunder-Methods.py)
 - 137 Exercise: Extending List [.py](06-adv-oop/137-Exercise-Extending-List.py)
 - 138 Multiple Inheritance [.py](06-adv-oop/138-Multiple-Inheritance.py)
----
-- `139 - MRO - Method Resolution Order.py`
+- 139 MRO - Method Resolution Order [.py](06-adv-oop/139-MRO-Method-Resolution-Order.py)
 
 ## 07. Advanced Python: Functional Programming (140-170) 27 files
 - `142 - Pure Functions.py`
