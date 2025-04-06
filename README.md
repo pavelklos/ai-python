@@ -3,6 +3,7 @@
 - [PEP 8 (Style Guide for Python Code)](https://peps.python.org/pep-0008/) peps.python.org
 - [Built-in Functions](https://docs.python.org/3/library/functions.html) docs.python.org
 - [Python Standard Library](https://docs.python.org/3/library/index.html) docs.python.org
+- [Break The Ice With Python](https://github.com/darkprinx/break-the-ice-with-python) github.com by darkprinx (*100+ Python challenging programming exercises*)
 
 ## 01. Introduction (001-004)
 
@@ -121,7 +122,7 @@
 - `151 - Set and Dictionary Comprehension.py`
 - `152 - Exercise - Comprehensions.py`
 
-## 08. Advanced Python: Decorators
+## 08. Advanced Python: Decorators (154-159) 6 files
 - `154 - Decorators.py`
 - `155 - Higher Order Functions.py`
 - `156 - Decorators 2.py`
@@ -129,7 +130,7 @@
 - `158 - Why Do We Need Decorators.py`
 - `159 - Exercise - @authenticated.py`
 
-## 09. Advanced Python: Error Handling
+## 09. Advanced Python: Error Handling (160-164) 5 files
 - `160 - Errors in Python.py`
 - `161 - Error Handling.py`
 ---
@@ -137,25 +138,39 @@
 - `163 - Exercises - Error Handling.py`
 - `164 - Error Handling 3.py`
 
-## 10. Advanced Python: Generators
+## 10. Advanced Python: Generators (165-170) files
 - `165 - Generators.py`
 - `166 - Generators 2.py`
 - `167 - Generators Performance.py`
 - `168 - Under The Hood Of Generators.py`
 - `169 - Exercise - Fibonacci Numbers.py`
 
-## 11. Modules In Python
-## 12. Debugging In Python
-## 13. File I/O
-## 14. Regular Expressions
-## 15. Testing In Python
-## 16. Career Of A Python Developer
-## 17. Scripting with Python
-## 18. Scraping Data with Python
-## 19. Web Development with Python
-## 20. Automation/Testing
-## 21. Machine Learning + Data Science
-## 22. Where To Go From Here?
-## 23. Extra Bits
-## 24. Appendix: HTML Forms
-## 25. BONUS SECTION
+## 11. Modules In Python (171-184) files
+- `171 - Modules in Python.py`
+- `172 - Packages in Python.py`
+---
+- `173 - Different Ways To Import.py`
+- `174 - __name__.py`
+- `175 - Python Built-in Modules.py`
+- `176 - Python Built-in Modules 2.py`
+- `177 - Exercise - Guessing Game.py`
+- `178 - Python Package Index.py`
+- `179 - pip install.py`
+- `180 - Virtual Environments.py`
+- `181 - Useful Modules.py`
+- `183 - Useful Modules 2.py`
+
+## 12. Debugging In Python () files
+## 13. File I/O () files
+## 14. Regular Expressions () files
+## 15. Testing In Python () files
+## 16. Career Of A Python Developer () files
+## 17. Scripting with Python () files
+## 18. Scraping Data with Python () files
+## 19. Web Development with Python () files
+## 20. Automation/Testing () files
+## 21. Machine Learning + Data Science () files
+## 22. Where To Go From Here? () files
+## 23. Extra Bits () files
+## 24. Appendix: HTML Forms () files
+## 25. BONUS SECTION () files
