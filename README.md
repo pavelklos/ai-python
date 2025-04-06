@@ -108,7 +108,7 @@
 - 139 MRO - Method Resolution Order [.py](06-adv-oop/139-MRO-Method-Resolution-Order.py)
 
 ## 07. Advanced Python: Functional Programming (140-170) 27 files
-- `142 - Pure Functions.py`
+- 142 Pure Functions [.py](07-adv-func-prog/142-Pure-Functions.py)
 - `143 - map().py`
 - `144 - filter().py`
 - `145 - zip().py`
