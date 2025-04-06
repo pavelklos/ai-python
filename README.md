@@ -113,7 +113,7 @@
 - 144 filter() [.py](07-adv-func-prog/144-filter().py)
 - 145 zip() [.py](07-adv-func-prog/145-zip().py)
 - 146 reduce() [.py](07-adv-func-prog/146-reduce().py)
-- `147 - Exercises - map, filter, zip, reduce.py`
+- 147 Exercises: map, filter, zip, reduce [.py](07-adv-func-prog/147-Exercises-map-filter-zip-reduce.py)
 - `148 - Lambda Expressions.py`
 - `149 - Exercise - Lambda Expressions.py`
 - `150 - List Comprehensions.py`
