@@ -97,7 +97,7 @@
 - 125 Reviewing What We Know So Far [.py](06-adv-oop/125-Reviewing-What-We-Know-So-Far.py)
 - 127 Encapsulation [.py](06-adv-oop/127-Encapsulation.py)
 - 129 Private vs Public Variables [.py](06-adv-oop/129-Private-vs-Public-Variables.py)
-- `130 - Inheritance.py`
+- 130 Inheritance [.py](06-adv-oop/130-Inheritance.py)
 - `132 - Polymorphism.py`
 - `133 - Exercise - Pets Everywhere.py`
 - `134 - super().py`
