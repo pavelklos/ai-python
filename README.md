@@ -95,8 +95,7 @@
 - 123 Exercise: Cats Everywhere [.py](06-adv-oop/123-Exercise-Cats-Everywhere.py)
 - 124 @classmethod and @staticmethod [.py](06-adv-oop/124-@classmethod-and-@staticmethod.py)
 - 125 Reviewing What We Know So Far [.py](06-adv-oop/125-Reviewing-What-We-Know-So-Far.py)
----
-- `127 - Encapsulation.py`
+- 127 Encapsulation [.py](06-adv-oop/127-Encapsulation.py)
 - `129 - Private vs Public Variables.py`
 - `130 - Inheritance.py`
 - `132 - Polymorphism.py`
@@ -106,12 +105,46 @@
 - `136 - Dunder Methods.py`
 - `137 - Exercise - Extending List.py`
 - `138 - Multiple Inheritance.py`
+---
 - `139 - MRO - Method Resolution Order.py`
 
-## 07. Advanced Python: Functional Programming
+## 07. Advanced Python: Functional Programming (140-170) 27 files
+- `142 - Pure Functions.py`
+- `143 - map().py`
+- `144 - filter().py`
+- `145 - zip().py`
+- `146 - reduce().py`
+- `147 - Exercises - map, filter, zip, reduce.py`
+- `148 - Lambda Expressions.py`
+- `149 - Exercise - Lambda Expressions.py`
+- `150 - List Comprehensions.py`
+---
+- `151 - Set and Dictionary Comprehension.py`
+- `152 - Exercise - Comprehensions.py`
+
 ## 08. Advanced Python: Decorators
+- `154 - Decorators.py`
+- `155 - Higher Order Functions.py`
+- `156 - Decorators 2.py`
+- `157 - Decorators 3.py`
+- `158 - Why Do We Need Decorators.py`
+- `159 - Exercise - @authenticated.py`
+
 ## 09. Advanced Python: Error Handling
+- `160 - Errors in Python.py`
+- `161 - Error Handling.py`
+---
+- `162 - Error Handling 2.py`
+- `163 - Exercises - Error Handling.py`
+- `164 - Error Handling 3.py`
+
 ## 10. Advanced Python: Generators
+- `165 - Generators.py`
+- `166 - Generators 2.py`
+- `167 - Generators Performance.py`
+- `168 - Under The Hood Of Generators.py`
+- `169 - Exercise - Fibonacci Numbers.py`
+
 ## 11. Modules In Python
 ## 12. Debugging In Python
 ## 13. File I/O
