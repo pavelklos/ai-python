@@ -103,7 +103,7 @@
 - 134 super() [.py](06-adv-oop/134-super().py)
 - 135 Object Introspection [.py](06-adv-oop/135-Object-Introspection.py)
 - 136 Dunder Methods [.py](06-adv-oop/136-Dunder-Methods.py)
-- `137 - Exercise - Extending List.py`
+- 137 Exercise: Extending List [.py](06-adv-oop/137-Exercise-Extending-List.py)
 - `138 - Multiple Inheritance.py`
 ---
 - `139 - MRO - Method Resolution Order.py`
