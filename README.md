@@ -100,7 +100,7 @@
 - 130 Inheritance [.py](06-adv-oop/130-Inheritance.py)
 - 132 Polymorphism [.py](06-adv-oop/132-Polymorphism.py)
 - 133 Exercise: Pets Everywhere [.py](06-adv-oop/133-Exercise-Pets-Everywhere.py)
-- `134 - super().py`
+- 134 super() [.py](06-adv-oop/134-super().py)
 - `135 - Object Introspection.py`
 - `136 - Dunder Methods.py`
 - `137 - Exercise - Extending List.py`
