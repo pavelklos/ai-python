@@ -150,7 +150,7 @@
 - 173 Different Ways To Import [.py](11-modules/173-Different-Ways-To-Import.py)
 - 174 `__name__` [.py](11-modules/174-__name__.py)
 - 175 Python Built-in Modules [.py](11-modules/175-Python-Built-in-Modules.py)
-- `176 - Python Built-in Modules 2.py`
+- 176 Python Built-in Modules 2 [.py](11-modules/176-Python-Built-in-Modules-2.py)
 - `177 - Exercise - Guessing Game.py`
 - `178 - Python Package Index.py`
 - `179 - pip install.py`
