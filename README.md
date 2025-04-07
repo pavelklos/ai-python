@@ -147,7 +147,7 @@
 - 171 Modules In Python [.py](11-modules/171-Modules-in-Python.py)
 - 172 Packages In Python [.py](11-modules/172-Packages-in-Python.py)
 - 173 Different Ways To Import [.py](11-modules/173-Different-Ways-To-Import.py)
-- `174 - __name__.py`
+- 174 `__name__` [.py](11-modules/174-__name__.py)
 - `175 - Python Built-in Modules.py`
 - `176 - Python Built-in Modules 2.py`
 - `177 - Exercise - Guessing Game.py`
