@@ -127,7 +127,7 @@
 - 156 Decorators 2 [.py](08-adv-decorators/156-Decorators-2.py)
 - 157 Decorators 3 [.py](08-adv-decorators/157-Decorators-3.py)
 - 158 Why Do We Need Decorators? [.py](08-adv-decorators/158-Why-Do-We-Need-Decorators.py)
-- `159 - Exercise - @authenticated.py`
+- 159 Exercise: @authenticated [.py](08-adv-decorators/159-Exercise-@authenticated.py)
 
 ## 09. Advanced Python: Error Handling (160-164) 5 files
 - `160 - Errors in Python.py`
