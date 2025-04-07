@@ -133,7 +133,7 @@
 - 160 Errors in Python [.py](09-adv-error-handling/160-Errors-in-Python.py)
 - 161 Error Handling [.py](09-adv-error-handling/161-Error-Handling.py)
 - 162 Error Handling 2 [.py](09-adv-error-handling/162-Error-Handling-2.py)
-- `163 - Exercises - Error Handling.py`
+- 163 Exercises: Error Handling [.py](09-adv-error-handling/163-Exercises-Error-Handling.py)
 - `164 - Error Handling 3.py`
 
 ## 10. Advanced Python: Generators (165-170) 5 files
