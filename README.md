@@ -3,6 +3,7 @@
 - [PEP 8 (Style Guide for Python Code)](https://peps.python.org/pep-0008/) peps.python.org
 - [Built-in Functions](https://docs.python.org/3/library/functions.html) docs.python.org
 - [Python Standard Library](https://docs.python.org/3/library/index.html) docs.python.org
+- [Python Module Index](https://docs.python.org/3/py-modindex.html) docs.python.org
 - [Break The Ice With Python](https://github.com/darkprinx/break-the-ice-with-python) github.com by darkprinx (*100+ Python challenging programming exercises*)
 
 ## 01. Introduction (001-004)
@@ -148,7 +149,7 @@
 - 172 Packages In Python [.py](11-modules/172-Packages-in-Python.py)
 - 173 Different Ways To Import [.py](11-modules/173-Different-Ways-To-Import.py)
 - 174 `__name__` [.py](11-modules/174-__name__.py)
-- `175 - Python Built-in Modules.py`
+- 175 Python Built-in Modules [.py](11-modules/175-Python-Built-in-Modules.py)
 - `176 - Python Built-in Modules 2.py`
 - `177 - Exercise - Guessing Game.py`
 - `178 - Python Package Index.py`
