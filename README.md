@@ -157,12 +157,33 @@
 - `180 - Virtual Environments.py`
 - `181 - Useful Modules.py`
 - `183 - Useful Modules 2.py`
+---
 
-## 12. Debugging In Python () files
-## 13. File I/O () files
-## 14. Regular Expressions () files
-## 15. Testing In Python () files
-## 16. Career Of A Python Developer () files
+## 12. Debugging In Python (185) 1 file
+- `185 - How To Debug Code.py`
+
+## 13. File I/O (186-190) 5 files
+- `186 - Working With Files In Python.py`
+- `187 - Read, Write, Append.py`
+- `188 - File Paths.py`
+- `189 - File IO Errors.py`
+- `190 - Exercise - Translator.py`
+
+## 14. Regular Expressions (191-196) 4 files
+- `191 - Regular Expressions.py`
+- `192 - Regular Expressions 2.py`
+- `194 - Regular Expressions 3.py`
+- `195 - Password Validation.py`
+---
+
+## 15. Testing In Python (197-201) 4 files
+- `197 - Testing Introduction.py`
+- `198 - Unittest.py`
+- `200 - Writing Unit Tests 2.py`
+- `201 - Exercise - Testing.py`
+
+## 16. Career Of A Python Developer (202-207) files
+
 ## 17. Scripting with Python () files
 ## 18. Scraping Data with Python () files
 ## 19. Web Development with Python () files
