@@ -140,7 +140,7 @@
 - 165 Generators [.py](10-adv-generators/165-Generators.py)
 - 166 Generators 2 [.py](10-adv-generators/166-Generators-2.py)
 - 167 Generators Performance [.py](10-adv-generators/167-Generators-Performance.py)
-- `168 - Under The Hood Of Generators.py`
+- 168 Under The Hood Of Generators [.py](10-adv-generators/168-Under-The-Hood-Of-Generators.py)
 - `169 - Exercise - Fibonacci Numbers.py`
 
 ## 11. Modules In Python (171-184) 12 files
