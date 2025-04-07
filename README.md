@@ -130,7 +130,7 @@
 - 159 Exercise: @authenticated [.py](08-adv-decorators/159-Exercise-@authenticated.py)
 
 ## 09. Advanced Python: Error Handling (160-164) 5 files
-- `160 - Errors in Python.py`
+- 160 Errors in Python [.py](09-adv-error-handling/160-Errors-in-Python.py)
 - `161 - Error Handling.py`
 ---
 - `162 - Error Handling 2.py`
