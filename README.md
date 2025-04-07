@@ -108,7 +108,7 @@
 - 138 Multiple Inheritance [.py](06-adv-oop/138-Multiple-Inheritance.py)
 - 139 MRO - Method Resolution Order [.py](06-adv-oop/139-MRO-Method-Resolution-Order.py)
 
-## 07. Advanced Python: Functional Programming (140-170) 27 files
+## 07. Advanced Python: Functional Programming (140-153) 11 files
 - 142 Pure Functions [.py](07-adv-func-prog/142-Pure-Functions.py)
 - 143 map() [.py](07-adv-func-prog/143-map().py)
 - 144 filter() [.py](07-adv-func-prog/144-filter().py)
@@ -122,7 +122,7 @@
 - 152 Exercise: Comprehensions [.py](07-adv-func-prog/152-Exercise-Comprehensions.py)
 
 ## 08. Advanced Python: Decorators (154-159) 6 files
-- `154 - Decorators.py`
+- 154 Decorators [.py](08-adv-decorators/154-Decorators.py)
 - `155 - Higher Order Functions.py`
 - `156 - Decorators 2.py`
 - `157 - Decorators 3.py`
@@ -137,14 +137,14 @@
 - `163 - Exercises - Error Handling.py`
 - `164 - Error Handling 3.py`
 
-## 10. Advanced Python: Generators (165-170) files
+## 10. Advanced Python: Generators (165-170) 5 files
 - `165 - Generators.py`
 - `166 - Generators 2.py`
 - `167 - Generators Performance.py`
 - `168 - Under The Hood Of Generators.py`
 - `169 - Exercise - Fibonacci Numbers.py`
 
-## 11. Modules In Python (171-184) files
+## 11. Modules In Python (171-184) 12 files
 - `171 - Modules in Python.py`
 - `172 - Packages in Python.py`
 ---
