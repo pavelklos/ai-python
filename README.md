@@ -125,7 +125,7 @@
 - 154 Decorators [.py](08-adv-decorators/154-Decorators.py)
 - 155 Higher Order Functions (HOF) [.py](08-adv-decorators/155-Higher-Order-Functions.py)
 - 156 Decorators 2 [.py](08-adv-decorators/156-Decorators-2.py)
-- `157 - Decorators 3.py`
+- 157 Decorators 3 [.py](08-adv-decorators/157-Decorators-3.py)
 - `158 - Why Do We Need Decorators.py`
 - `159 - Exercise - @authenticated.py`
 
