@@ -137,7 +137,7 @@
 - 164 Error Handling 3 [.py](09-adv-error-handling/164-Error-Handling-3.py)
 
 ## 10. Advanced Python: Generators (165-170) 5 files
-- `165 - Generators.py`
+- 165 Generators [.py](10-adv-generators/165-Generators.py)
 - `166 - Generators 2.py`
 - `167 - Generators Performance.py`
 - `168 - Under The Hood Of Generators.py`
