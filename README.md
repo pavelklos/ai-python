@@ -154,7 +154,7 @@
 - 176 Python Built-in Modules 2 [.py](11-modules/176-Python-Built-in-Modules-2.py)
 - 177 Exercise: Guessing Game [.py](11-modules/177-Exercise-Guessing-Game.py)
 - 178 Python Package Index [.py](11-modules/178-Python-Package-Index.py)
-- `179 - pip install.py`
+- 179 pip install [.py](11-modules/179-pip-install.py)
 - `180 - Virtual Environments.py`
 - `181 - Useful Modules.py`
 - `183 - Useful Modules 2.py`
