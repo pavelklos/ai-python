@@ -164,7 +164,7 @@
 - 185 How To Debug Code [.py](12-debugging/185-How-To-Debug-Code.py)
 
 ## 13. File I/O (186-190) 5 files
-- `186 - Working With Files In Python.py`
+- 186 Working With Files In Python [.py](13-file-io/186-Working-With-Files-In-Python.py)
 - `187 - Read, Write, Append.py`
 - `188 - File Paths.py`
 - `189 - File IO Errors.py`
