@@ -157,8 +157,7 @@
 - 179 pip install [.py](11-modules/179-pip-install.py)
 - 180 Virtual Environments [.py](11-modules/180-Virtual-Environments.py)
 - 181 Useful Modules [.py](11-modules/181-Useful-Modules.py)
-- `183 - Useful Modules 2.py`
----
+- 183 Useful Modules 2 [.py](11-modules/183-Useful-Modules-2.py)
 
 ## 12. Debugging In Python (185) 1 file
 - `185 - How To Debug Code.py`
