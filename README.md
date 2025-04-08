@@ -167,7 +167,7 @@
 - 186 Working With Files In Python [.py](13-file-io/186-Working-With-Files-In-Python.py)
 - 187 Read, Write, Append [.py](13-file-io/187-Read-Write-Append.py)
 - 188 File Paths [.py](13-file-io/188-File-Paths.py)
-- `189 - File IO Errors.py`
+- 189 File IO Errors [.py](13-file-io/189-File-IO-Errors.py)
 - `190 - Exercise - Translator.py`
 
 ## 14. Regular Expressions (191-196) 4 files
