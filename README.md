@@ -6,6 +6,7 @@
 - [Python Module Index](https://docs.python.org/3/py-modindex.html) docs.python.org
 - [Python Package Index (PyPI)](https://pypi.org/) pypi.org
 - [Break The Ice With Python](https://github.com/darkprinx/break-the-ice-with-python) github.com by darkprinx (*100+ Python challenging programming exercises*)
+- [pdb (The Python Debugger)](https://docs.python.org/3/library/pdb.html) docs.python.org
 
 ## 01. Introduction (001-004)
 
@@ -160,7 +161,7 @@
 - 183 Useful Modules 2 [.py](11-modules/183-Useful-Modules-2.py)
 
 ## 12. Debugging In Python (185) 1 file
-- `185 - How To Debug Code.py`
+- 185 How To Debug Code [.py](12-debugging/185-How-To-Debug-Code.py)
 
 ## 13. File I/O (186-190) 5 files
 - `186 - Working With Files In Python.py`
