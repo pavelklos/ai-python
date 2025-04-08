@@ -165,7 +165,7 @@
 
 ## 13. File I/O (186-190) 5 files
 - 186 Working With Files In Python [.py](13-file-io/186-Working-With-Files-In-Python.py)
-- `187 - Read, Write, Append.py`
+- 187 Read, Write, Append [.py](13-file-io/187-Read-Write-Append.py)
 - `188 - File Paths.py`
 - `189 - File IO Errors.py`
 - `190 - Exercise - Translator.py`
