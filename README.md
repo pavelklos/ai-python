@@ -4,6 +4,7 @@
 - [Built-in Functions](https://docs.python.org/3/library/functions.html) docs.python.org
 - [Python Standard Library](https://docs.python.org/3/library/index.html) docs.python.org
 - [Python Module Index](https://docs.python.org/3/py-modindex.html) docs.python.org
+- [Python Package Index (PyPI)](https://pypi.org/) pypi.org
 - [Break The Ice With Python](https://github.com/darkprinx/break-the-ice-with-python) github.com by darkprinx (*100+ Python challenging programming exercises*)
 
 ## 01. Introduction (001-004)
@@ -152,7 +153,7 @@
 - 175 Python Built-in Modules [.py](11-modules/175-Python-Built-in-Modules.py)
 - 176 Python Built-in Modules 2 [.py](11-modules/176-Python-Built-in-Modules-2.py)
 - 177 Exercise: Guessing Game [.py](11-modules/177-Exercise-Guessing-Game.py)
-- `178 - Python Package Index.py`
+- 178 Python Package Index [.py](11-modules/178-Python-Package-Index.py)
 - `179 - pip install.py`
 - `180 - Virtual Environments.py`
 - `181 - Useful Modules.py`
