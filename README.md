@@ -171,7 +171,7 @@
 - 190 Exercise: Translator [.py](13-file-io/190-Exercise-Translator.py)
 
 ## 14. Regular Expressions (191-196) 4 files
-- `191 - Regular Expressions.py`
+- 191 Regular Expressions [.py](14-regex/191-Regular-Expressions.py)
 - `192 - Regular Expressions 2.py`
 - `194 - Regular Expressions 3.py`
 - `195 - Password Validation.py`
