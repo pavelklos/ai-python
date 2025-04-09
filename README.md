@@ -182,10 +182,21 @@
 - 200 Writing Unit Tests 2 [.py](15-testing/200-Writing-Unit-Tests-2.py)
 - 201 Exercise: Testing [.py](15-testing/201-Exercise-Testing.py)
 
-## 16. Career Of A Python Developer (202-207) files
+## 16. Career Of A Python Developer (202-207)
 
-## 17. Scripting with Python () files
-## 18. Scraping Data with Python () files
+## 17. Scripting with Python (208-248) 9 files
+- `212 - Images With Python.py`
+- `215 - Exercise - JPG to PNG Pokedex Converter.py`
+- `220 - PDFs With Python.py`
+- `221 - Exercise - PDF Merger.py`
+- `222 - Exercise - Watermarker.py`
+- `224 - Sending Emails With Python.py`
+- `230 - Password API.py`
+- `240 - Our First Twitter Bot.py`
+- `244 - SMS With Python.py`
+
+## 18. Scraping Data with Python (249-261) files
+
 ## 19. Web Development with Python () files
 ## 20. Automation/Testing () files
 ## 21. Machine Learning + Data Science () files
