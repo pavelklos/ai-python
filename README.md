@@ -174,8 +174,7 @@
 - 191 Regular Expressions [.py](14-regex/191-Regular-Expressions.py)
 - 192 Regular Expressions 2 [.py](14-regex/192-Regular-Expressions-2.py)
 - 194 Regular Expressions 3 [.py](14-regex/194-Regular-Expressions-3.py)
-- `195 - Password Validation.py`
----
+- 195 Exercise: Password Validation [.py](14-regex/195-Password-Validation.py)
 
 ## 15. Testing In Python (197-201) 4 files
 - `197 - Testing Introduction.py`
