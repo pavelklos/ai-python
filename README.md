@@ -195,7 +195,8 @@
 - 240 Our First Twitter Bot [.py](17-scripting/240-Our-First-Twitter-Bot.py)
 - 244 SMS With Python [.py](17-scripting/244-SMS-With-Python.py)
 
-## 18. Scraping Data with Python (249-261) files
+## 18. Scraping Data with Python (249-261) 1 file
+- `253-Web-Scraping.py` [.py](18-web-scraping/253-Web-Scraping.py)
 
 ## 19. Web Development with Python () files
 ## 20. Automation/Testing () files
