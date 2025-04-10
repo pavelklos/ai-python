@@ -187,7 +187,7 @@
 ## 17. Scripting with Python (208-248) 9 files
 - 212 Images With Python [.py](17-scripting/212-Images-With-Python.py)
 - 215 Exercise: JPG to PNG Pokedex Converter [.py](17-scripting/215-Exercise-JPG-to-PNG-Pokedex-Converter.py)
-- `220 - PDFs With Python.py`
+- 220 PDFs With Python [.py](17-scripting/220-PDFs-With-Python.py)
 - `221 - Exercise - PDF Merger.py`
 - `222 - Exercise - Watermarker.py`
 - `224 - Sending Emails With Python.py`
