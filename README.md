@@ -196,10 +196,14 @@
 - 244 SMS With Python [.py](17-scripting/244-SMS-With-Python.py)
 
 ## 18. Scraping Data with Python (249-261) 1 file
-- `253-Web-Scraping.py` [.py](18-web-scraping/253-Web-Scraping.py)
+- 253 Web Scrapin [.py](18-web-scraping/253-Web-Scraping.py)
 
-## 19. Web Development with Python () files
-## 20. Automation/Testing () files
+## 19. Web Development with Python (262-291) 1 file
+- 265 Web Development [.py](19-web-development/265-Web-Development.py)
+
+## 20. Automation/Testing (292-298) 1 file
+- `293 - Automation-Testing.py`
+
 ## 21. Machine Learning + Data Science () files
 ## 22. Where To Go From Here? () files
 ## 23. Extra Bits () files
