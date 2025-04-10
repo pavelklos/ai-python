@@ -192,7 +192,7 @@
 - 222 Exercise: Watermarker [.py](17-scripting/222-Exercise-Watermarker.py)
 - 224 Sending Emails With Python [.py](17-scripting/224-Sending-Emails-With-Python.py)
 - 230 Password API [.py](17-scripting/230-Password-API.py)
-- `240 - Our First Twitter Bot.py`
+- 240 Our First Twitter Bot [.py](17-scripting/240-Our-First-Twitter-Bot.py)
 - `244 - SMS With Python.py`
 
 ## 18. Scraping Data with Python (249-261) files
