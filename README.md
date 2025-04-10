@@ -190,7 +190,7 @@
 - 220 PDFs With Python [.py](17-scripting/220-PDFs-With-Python.py)
 - 221 Exercise: PDF Merger [.py](17-scripting/221-Exercise-PDF-Merger.py)
 - 222 Exercise: Watermarker [.py](17-scripting/222-Exercise-Watermarker.py)
-- `224 - Sending Emails With Python.py`
+- 224 Sending Emails With Python [.py](17-scripting/224-Sending-Emails-With-Python.py)
 - `230 - Password API.py`
 - `240 - Our First Twitter Bot.py`
 - `244 - SMS With Python.py`
