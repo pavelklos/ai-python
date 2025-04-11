@@ -204,8 +204,12 @@
 ## 20. Automation/Testing (292-298) 1 file
 - 293 - Automation/Testing [.py](20-automation-testing/293-Automation-Testing.py)
 
-## 21. Machine Learning + Data Science () files
-## 22. Where To Go From Here? () files
-## 23. Extra Bits () files
-## 24. Appendix: HTML Forms () files
-## 25. BONUS SECTION () files
+## 21. Machine Learning + Data Science (299-320) files
+`pip install jupyterlab`
+- 307 Data Science 1 
+  - [soccer.ipynb](21-ml-ds/soccer.ipynb) ([data.csv](21-ml-ds/data.csv)) `pip install pandas seaborn bokeh`
+
+## 22. Where To Go From Here? (321-323)
+## 23. Extra Bits (324-339)
+## 24. Appendix: HTML Forms (340-343)
+## 25. BONUS SECTION (344)
