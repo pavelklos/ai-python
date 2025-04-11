@@ -206,9 +206,9 @@
 
 ## 21. Machine Learning + Data Science (299-320) files
 `pip install jupyterlab`
-- 307 Data Science 1 
+- 307 Data Science 
   - [soccer.ipynb](21-ml-ds/soccer.ipynb) ([data.csv](21-ml-ds/data.csv)) `pip install pandas seaborn bokeh`
-- 310 Machine Learning 1
+- 310 Machine Learning
   - [iris-dataset.ipynb](21-ml-ds/iris-dataset.ipynb) ([ml_model.joblib](21-ml-ds/ml_model.joblib)) `pip install scikit-learn matplotlib joblib`
 
 ## 22. Where To Go From Here? (321-323)
