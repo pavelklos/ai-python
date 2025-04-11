@@ -202,7 +202,7 @@
 - 265 Web Development [.py](19-web-development/265-Web-Development.py)
 
 ## 20. Automation/Testing (292-298) 1 file
-- `293 - Automation-Testing.py`
+- 293 - Automation/Testing [.py](20-automation-testing/293-Automation-Testing.py)
 
 ## 21. Machine Learning + Data Science () files
 ## 22. Where To Go From Here? () files
