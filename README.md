@@ -210,6 +210,9 @@
   - [soccer.ipynb](21-ml-ds/soccer.ipynb) ([data.csv](21-ml-ds/data.csv)) `pip install pandas seaborn bokeh`
 - 310 Machine Learning
   - [iris-dataset.ipynb](21-ml-ds/iris-dataset.ipynb) ([ml_model.joblib](21-ml-ds/ml_model.joblib)) `pip install scikit-learn matplotlib joblib`
+- 319 Exercise: ReallySmartBrain<br>
+  - by [ImageAI](https://imageai.readthedocs.io/) (Image Object Detection)
+  - [brain.py](21-ml-ds/brain.py) (3x jpg) [mobilenet_v2-b0353104.pth](21-ml-ds/mobilenet_v2-b0353104.pth)<br>`pip install cython pillow>=7.0.0 numpy>=1.18.1 opencv-python>=4.1.2 torch>=1.9.0 --extra-index-url https://download.pytorch.org/whl/cpu torchvision>=0.10.0 --extra-index-url https://download.pytorch.org/whl/cpu pytest==7.1.3 tqdm==4.64.1 scipy>=1.7.3 matplotlib>=3.4.3 mock==4.0.3`
 
 ## 22. Where To Go From Here? (321-323)
 ## 23. Extra Bits (324-339)
