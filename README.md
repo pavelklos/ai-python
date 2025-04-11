@@ -209,7 +209,7 @@
 - 307 Data Science 1 
   - [soccer.ipynb](21-ml-ds/soccer.ipynb) ([data.csv](21-ml-ds/data.csv)) `pip install pandas seaborn bokeh`
 - 310 Machine Learning 1
-  - [iris-dataset.ipynb](21-ml-ds/iris-dataset.ipynb)
+  - [iris-dataset.ipynb](21-ml-ds/iris-dataset.ipynb) ([ml_model.joblib](21-ml-ds/ml_model.joblib)) `pip install scikit-learn matplotlib joblib`
 
 ## 22. Where To Go From Here? (321-323)
 ## 23. Extra Bits (324-339)
