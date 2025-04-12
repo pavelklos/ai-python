@@ -214,7 +214,7 @@
   - [brain.py](21-ml-ds/brain.py) (3x jpg) [mobilenet_v2-b0353104.pth](21-ml-ds/mobilenet_v2-b0353104.pth)
 - Titanic Dataset Analysis
   - [titanic-1.ipynb](21-ml-ds/titanic-1.ipynb) ([titanic-dataset.csv](21-ml-ds/titanic-dataset.csv), [processed-titanic-dataset.csv](21-ml-ds/processed-titanic-dataset.csv))
-  - [titanic-2.ipynb](21-ml-ds/titanic-2.ipynb)
+  - [titanic-2.ipynb](21-ml-ds/titanic-2.ipynb) ([titanic-predictions.csv](21-ml-ds/titanic-predictions.csv))
 
 ## 22. Where To Go From Here? (321-323)
 ## 23. Extra Bits (324-339)
