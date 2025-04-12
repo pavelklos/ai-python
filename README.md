@@ -205,14 +205,15 @@
 - 293 - Automation/Testing [.py](20-automation-testing/293-Automation-Testing.py)
 
 ## 21. Machine Learning + Data Science (299-320) files
-`pip install jupyterlab`
 - 307 Data Science 
-  - [soccer.ipynb](21-ml-ds/soccer.ipynb) ([data.csv](21-ml-ds/data.csv)) `pip install pandas seaborn bokeh`
+  - [soccer.ipynb](21-ml-ds/soccer.ipynb) ([data.csv](21-ml-ds/data.csv))
 - 310 Machine Learning
-  - [iris-dataset.ipynb](21-ml-ds/iris-dataset.ipynb) ([ml_model.joblib](21-ml-ds/ml_model.joblib)) `pip install scikit-learn matplotlib joblib`
-- 319 Exercise: ReallySmartBrain<br>
+  - [iris-dataset.ipynb](21-ml-ds/iris-dataset.ipynb) ([ml_model.joblib](21-ml-ds/ml_model.joblib))
+- 319 Exercise: ReallySmartBrain
   - by [ImageAI](https://imageai.readthedocs.io/) (Image Object Detection)
   - [brain.py](21-ml-ds/brain.py) (3x jpg) [mobilenet_v2-b0353104.pth](21-ml-ds/mobilenet_v2-b0353104.pth)
+- Titanic Dataset Analysis
+  - [titanic-1.ipynb](21-ml-ds/titanic-1.ipynb) ([titanic-dataset.csv](21-ml-ds/titanic-dataset.csv), [processed-titanic-dataset.csv](21-ml-ds/processed-titanic-dataset.csv))
 
 ## 22. Where To Go From Here? (321-323)
 ## 23. Extra Bits (324-339)
